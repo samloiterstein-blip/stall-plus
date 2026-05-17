@@ -20,4 +20,4 @@ The script rewrites `data/why-stallplus-news.json`.
 
 ## Vercel
 
-This project is configured for Vercel as a static site. Import the GitHub repository in Vercel and keep the framework preset set to "Other" with no build command.
+This project is configured for Vercel as a static site. The Vercel project is connected to the GitHub repository and deploys from `main`.
