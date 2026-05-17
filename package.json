@@ -1,0 +1,10 @@
+{
+  "name": "stall-plus",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static StallPlus marketing site with refreshed news data.",
+  "scripts": {
+    "dev": "python3 -m http.server 5173",
+    "update-news": "node scripts/update-news.mjs"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "updatedAt": "2026-05-16T11:04:57.144Z",
+  "generatedBy": "scripts/update-news.mjs",
+  "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
+  "providerStatus": {
+    "attempted": [
+      "NewsAPI.ai",
+      "NewsData.io",
+      "NewsAPI.org"
+    ],
+    "errors": []
+  },
+  "categoryCounts": [
+    {
+      "id": "bathroom-peeping",
+      "label": "Bathroom Peeping / Voyeurism Incidents",
+      "count": 4
+    },
+    {
+      "id": "dorm-privacy",
+      "label": "Dorm Bathroom Privacy + Shared Living",
+      "count": 0
+    },
+    {
+      "id": "hidden-cameras",
+      "label": "Hidden Cameras in Public Spaces",
+      "count": 0
+    },
+    {
+      "id": "workplace-privacy",
+      "label": "Return-to-Office Workplace Privacy",
+      "count": 1
+    },
+    {
+      "id": "viral-stall-gaps",
+      "label": "Viral Social Media About US Bathroom Stalls",
+      "count": 0
+    },
+    {
+      "id": "womens-safety",
+      "label": "Women's Safety & Vulnerability Stories",
+      "count": 0
+    },
+    {
+      "id": "privacy-culture",
+      "label": "Broader Privacy Culture / Screen Peeping",
+      "count": 0
+    }
+  ],
+  "articles": [
+    {
+      "provider": "NewsData.io",
+      "title": "Ferris Peeping Tom arrest made after alleged voyeurism involving juveniles",
+      "description": "Police in the Ellis County city of Ferris have arrested a man who is accused of being a Peeping Tom. Ferris Voyeurism Arrest Cristian Ivan Ceballos Vegas was arrested on Thursday and charged with both voyeurism and criminal trespassing. According to a probable cause affidavit, Ceballos Vegas is accused of looking into a home to observe his victims, including juvenile victims, and unlawfully entered a home in Ferris. The conduct was sexual in nature and done for his own sexual gratification, the warrant alleges. \"This is not simply an allegation that someone stepped onto private property,\" said Ferris City Manager Brooks Williams. \"The allegations in these warrants involve an invasion of privacy inside a family’s home, conduct alleged to be sexual in nature, and juvenile victims. That is serious. That is disturbing. And the City of Ferris treated it with the urgency and seriousness it deserves.\" Deputy City Manager John DeLeon said the arrest is an important step for the victims and their family. \"No arrest can undo what this family experienced,\" he said. \"But today matters. Today is a step toward accountability, a step toward reassurance, and hopefully a step toward closure for the victims. The City of Ferris stands with them, and we will continue to support the lawful process as this case moves forward.\" Ferris police believe there may have been other incidents and additional victims. Anyone with information about Ceballos Vega should contact the Ferris Department of Public Safety at 972-928-5592. Ceballos Vegas will remain in police custody because of an immigration hold.",
+      "url": "https://www.fox4news.com/news/ferris-peeping-tom-voyeurism-arrest",
+      "source": "Fox 4 News Dallas-fort Worth",
+      "image": "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2026/05/931/523/28d71c25-7302-4ee8-861a-6ff6cce89980-e1778861288359.jpg?ve=1&tl=1",
+      "publishedAt": "2026-05-15 16:16:13",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "stallplusAngle": "Turns stall gaps from an inconvenience into an immediate privacy concern. Use the angle carefully: \"Ferris Peeping Tom arrest made after alleged voyeurism involving juveniles\" can support messaging around privacy, dignity, and practical restroom upgrades."
+    },
+    {
+      "provider": "NewsAPI.org",
+      "title": "‘Parallel Tales’ Review: Asghar Farhadi’s Dire Kieślowski Adaptation Turns ‘A Shot Film About Love’ Into a Long Film About Nothing",
+      "description": "Cannes: Isabelle Huppert plays a novelist who spies on her neighbors for inspiration in a movie about voyeurism that offers little to look at and even less to see.",
+      "url": "https://www.indiewire.com/criticism/movies/parallel-tales-movie-review-asghar-farhadi-1235193969/",
+      "source": "IndieWire",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/Screenshot-2026-05-11-at-2.01.37 PM.png?w=650",
+      "publishedAt": "2026-05-14T19:04:00Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "stallplusAngle": "Turns stall gaps from an inconvenience into an immediate privacy concern. Use the angle carefully: \"‘Parallel Tales’ Review: Asghar Farhadi’s Dire Kieślowski Adaptation Turns ‘A Shot Film About Love’ Into a Long Film About Nothing\" can support messaging around privacy, dignity, and practical restroom upgrades."
+    },
+    {
+      "provider": "NewsAPI.org",
+      "title": "Man charged with video voyeurism after filming in bathroom at Pride event",
+      "description": "A Florida man who attended Naples Pridefest while openly criticising the LGBTQ+ community has been arrested on video voyeurism charges after authorities say he filmed people inside a public restroom during the event. According to police, 61-year-old Andrew Sh…",
+      "url": "https://www.thepinknews.com/2026/05/14/florida-naples-pridefest-andrew-sheets/",
+      "source": "Thepinknews.com",
+      "image": "https://www.thepinknews.com/wp-content/uploads/2026/05/naples-pridefest-andrew-sheets.jpg",
+      "publishedAt": "2026-05-14T14:18:14Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "stallplusAngle": "Turns stall gaps from an inconvenience into an immediate privacy concern. Use the angle carefully: \"Man charged with video voyeurism after filming in bathroom at Pride event\" can support messaging around privacy, dignity, and practical restroom upgrades."
+    },
+    {
+      "provider": "NewsAPI.org",
+      "title": "Anti-LGBTQ+ extremist charged for filming men using public bathroom at Florida Pride event",
+      "description": "Authorities have arrested a Florida man on video voyeurism charges after he filmed attendees of Naples Pridefest using the restroom. Now, he claims he wanted to catch men grooming boys.",
+      "url": "https://www.advocate.com/news/crime/naples-pride-voyeurism-arrest",
+      "source": "Advocate.com",
+      "image": "https://www.advocate.com/media-library/people-during-pride-parade-with-naples-pride-sign.jpg?id=66729778&width=1200&height=600&coordinates=0%2C39%2C0%2C39",
+      "publishedAt": "2026-05-13T17:07:35Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "stallplusAngle": "Turns stall gaps from an inconvenience into an immediate privacy concern. Use the angle carefully: \"Anti-LGBTQ+ extremist charged for filming men using public bathroom at Florida Pride event\" can support messaging around privacy, dignity, and practical restroom upgrades."
+    },
+    {
+      "provider": "NewsAPI.org",
+      "title": "Are Happy Customers or Employees More Valuable?",
+      "description": "GUEST POST from Shep Hyken Do happy employees make happy customers, or is it the other way around? Do happy customers make employees happy? I’ve written in many articles and books that a focus on the employee experience will improve the customer experience. T…",
+      "url": "https://bradenkelley.com/2026/05/are-happy-customers-or-employees-more-valuable/",
+      "source": "Bradenkelley.com",
+      "image": "https://bradenkelley.com/wp-content/uploads/2026/05/Happy-Customers-Happy-Employees-Gemini.jpg",
+      "publishedAt": "2026-05-14T12:00:00Z",
+      "category": "Return-to-Office Workplace Privacy",
+      "categoryId": "workplace-privacy",
+      "priority": 4,
+      "stallplusAngle": "Gives facilities and HR teams a practical employee-experience improvement. Use the angle carefully: \"Are Happy Customers or Employees More Valuable\" can support messaging around privacy, dignity, and practical restroom upgrades."
+    }
+  ]
+}
